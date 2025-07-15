@@ -1,0 +1,9 @@
+React  intro
+if we use react in browser then we can use reactDOM.
+if we are use react in mobile APP then we can use  react -native
+.
+type is defined which you like(anker,paragraph)
+props: it is property like href,target etc
+custom render use two thing one was reactElement (what were use) and another that maincontainer(where was use)
+
+In react data can be updated through hooks
