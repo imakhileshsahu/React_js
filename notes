@@ -7,3 +7,8 @@ props: it is property like href,target etc
 custom render use two thing one was reactElement (what were use) and another that maincontainer(where was use)
 
 In react data can be updated through hooks
+
+Redux is used to state managed in a organised way.
+redux version in market used in redux-toolkit(RTK)
+
+context-API search on google read docs file
